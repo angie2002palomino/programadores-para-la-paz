@@ -1,0 +1,21 @@
+Modelo 1: 
+Entidad: Reporte Campos principales: 
+-ID 
+-Título 
+-Descripción 
+-Categoría 
+-Fecha 
+-Estado 
+
+Propósito: Guardar los reportes de problemas o necesidades registrados por los ciudadanos 
+para su seguimiento. 
+
+Modelo 2: Entidad: Usuario Campos principales: 
+-ID 
+-Nombre 
+-Correo electrónico 
+-Rol 
+-Fecha de registro 
+
+Propósito: Registrar la información de las personas que utilizan la plataforma, diferenciando
+ciudadanos, coordinadores y administradores. 
