@@ -1,0 +1,18 @@
+¿Qué 2 tareas del backlog harías primero? Las primeras dos tareas del backlog que realizaría 
+serían:
+1. Implementar el registro de reportes por parte de los ciudadanos. 
+2. Implementar la notificación al coordinador cuando se registre un nuevo reporte. 
+
+¿Por qué son las más importantes? 
+Estas son las más importantes porque el registro de reportes es la funcionalidad principal 
+del sistema; sin ella no existiría información para gestionar. La notificación al coordinador
+es la siguiente prioridad porque permite que los reportes reciban atención de manera oportuna
+y se inicie el proceso de seguimiento. 
+
+¿Qué significa para ti que una tarea esté “terminada”? 
+Considero que una tarea está terminada cuando: -Funciona correctamente de acuerdo con los 
+requisitos establecidos. 
+-Fue probada y no presenta errores en los casos principales de uso.
+-Quedó registrada en Git mediante un commit y fue integrada al repositorio del proyecto. 
+-Cuenta con la documentación necesaria, si hubo cambios relevantes en la funcionalidad o 
+configuración. 
