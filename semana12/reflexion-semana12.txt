@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy valiosa para 
+fortalecer la participación ciudadana y la organización comunitaria cuando se utiliza de 
+forma responsable. Comprendí la importancia de desarrollar plataformas seguras, accesibles y 
+fáciles de usar que permitan a las personas informar, participar y hacer seguimiento a las 
+necesidades de su comunidad.
+
+También aprendí conceptos como el uso de bases de datos, APIs, autenticación, metodologías 
+ágiles y buenas prácticas de seguridad, entendiendo que no solo es importante que una 
+aplicación funcione, sino que también proteja la información de los usuarios y genere 
+confianza. En conjunto, estos conocimientos me permitieron comprender cómo la tecnología 
+puede contribuir a crear soluciones con un impacto social positivo.
